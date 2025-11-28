@@ -415,4 +415,4 @@ MIT License - feel free to use this project for learning or commercial purposes.
 
 ---
 
-Built with ❤️ by NandoLabs
+*This project is part of the NandoLabs portfolio, showcasing modern frontend development with React, TypeScript, and TailwindCSS.*
