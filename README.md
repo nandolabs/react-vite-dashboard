@@ -1,5 +1,3 @@
-# 📄 **NEW README.md (Copy / Paste This)**
-
 # React Vite Dashboard
 
 A modern, responsive admin dashboard built with **React**, **Vite**, and **Tailwind CSS**, featuring charts, analytics, and data tables.  
